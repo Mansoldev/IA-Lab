@@ -59,7 +59,7 @@ Es el entorno que permite la ejecución del modelo LLM, puede ser de tipo motor 
 Y hay 3 tipos:
 
 1. Online: tipo chatgpt, gemini, deep seek.
-2. Local editor: tipo copilot, cursor, open code, claude code
+2. Local editor: tipo copilot, cursor, open code, claude code, codex
 3. Local motor: tipo Ollama o LM Studio
 
 # CAPAS DEL ECOSISTEMA IA:
@@ -89,7 +89,7 @@ Ejemplos:
 
 Nube: OpenAI API, Google AI Studio, Groq (muy famoso por usar chips LPU ultra rápidos).
 
-Local: LM Studio, Ollama, vLLM, llama.cpp.
+Local: LM Studio, Ollama, vLLM, llama.cpp, Claude Code, Codex, OpenCode, Open Claw, Hermes.
 
 ## 2 Capa de Framework Base
 
